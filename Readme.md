@@ -8,6 +8,7 @@ financial tips tailored to the user's progress and interests.
 Key Features:
 Personalized Learning Path: Customizes content based on the user’s existing knowledge and
 learning goals.
+
 Interactive Lessons: Offers bite-sized lessons on various finance topics, including budgeting,
 investing, savings, and credit management.
 Quizzes and Progress Tracking: Reinforces learning through quizzes and tracks progress over

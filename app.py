@@ -11,7 +11,7 @@ api_key = os.getenv("TOGETHER_API_KEY")
 if not api_key:
    #st.error("TOGETHER API KEY is not set. Please set the TOGETHER_API_KEY environment variable.")
    st.stop()
-   api_key = st.text_input("OpenAI API Key", type="password")
+   api_key = st.text_input("TOGETHER API Key", type="password")
    #raise ValueError("TOGETHER API KEY environment variable not set.")
 
 # Set up Together client

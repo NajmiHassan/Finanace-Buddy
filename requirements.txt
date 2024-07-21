@@ -1,5 +1,5 @@
-streamlit==1.19.0
-together==1.0.0  
-pandas==2.0.1
-matplotlib==3.7.2
-python-dotenv==1.0.0
+streamlit
+together
+pandas
+matplotlib
+python-dotenv

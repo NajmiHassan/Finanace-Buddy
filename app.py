@@ -8,8 +8,8 @@ import re  # For regular expression matching to extract amounts
 
 # Get API key from environment variable
 api_key = os.getenv("TOGETHER_API_KEY")
-#if not api_key:
-#    raise ValueError("TOGETHER API KEY environment variable not set.")
+if not api_key:
+   raise ValueError("TOGETHER API KEY environment variable not set.")
 
 # Set up Together client
 client = Together(api_key=api_key)
